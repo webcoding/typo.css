@@ -4,7 +4,7 @@
 
     Alpha 中，各路牛人都来支持一下，加入开发啊！
 
-预览：[typo.css](http://typo.sofish.de)
+预览：[typo.css](http://webcoding.github.com/typo.css) 借鉴于sofish Lin的TYPO.CSS设计思想
 
 ### 一、目录结构    
     .
